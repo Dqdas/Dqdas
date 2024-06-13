@@ -5,7 +5,7 @@
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: Im only starting in github!
 - Want to contact me? Discord: wbigcar.c
-  good luck coding!
+- good luck coding!
 
 <!---
 Dqdas/Dqdas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
