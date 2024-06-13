@@ -2,9 +2,10 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning how to create executors/scripts/sites/Javascript fun codes
 - 💞️ I’m looking to collaborate on coding
-- 📫 How to reach me: Discord: wbigcar.c
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: Im only starting in github!
+- Want to contact me? Discord: wbigcar.c
+  good luck coding!
 
 <!---
 Dqdas/Dqdas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
